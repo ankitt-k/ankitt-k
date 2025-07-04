@@ -28,7 +28,7 @@
 
 ## 📌 Featured Projects
 
-### 🔹 [Yummato – Full-Stack Food Delivery Web App](#)
+### 🔹 [Yummato – Full-Stack Food Delivery Web App](https://food-del-frontend-dvb9.onrender.com/)
 Built a complete food delivery platform with user auth, admin dashboard, dynamic cart, and Stripe integration.
 
 ### 🔹 [CodeCraft – Online Code Editor](https://one-editor-8lp7.vercel.app)
