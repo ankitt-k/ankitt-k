@@ -49,7 +49,7 @@ Socket.io-based chat app with JWT auth and MongoDB message storage.
 
 - 📧 Email: ankitk11964@gmail.com  
 - 🔗 LinkedIn: ([https://www.linkedin.com/in/ankit-kumar-1138a8257/])  
-- 💼 Resume: ([https://drive.google.com/file/d/1sGV4EcQfA-szBeqWpzs_3nnGvZGNqCmu/view?usp=sharing])
+- 💼 Resume: ([(https://drive.google.com/file/d/1o2Vm41iqk5zvubON0TdPtD79HyKgE6ZE/view?usp=sharing)])
 
 ---
 
