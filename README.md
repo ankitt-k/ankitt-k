@@ -38,7 +38,7 @@ Socket.io-based chat app with JWT auth and MongoDB message storage.
 
 ## 🧩 Coding Profiles
 
-- [LeetCode – 700+ Problems | Rating: 1777](https://leetcode.com/Ankitk_nitb/)
+- [LeetCode – 750+ Problems | Rating: 1777](https://leetcode.com/Ankitk_nitb/)
 - [Codeforces – Rating: 1181](https://codeforces.com/profile/Ankitk_123)
 - [GeeksforGeeks – 250+ Problems](https://www.geeksforgeeks.org/user/ankitk6tbp/)
 
@@ -49,7 +49,7 @@ Socket.io-based chat app with JWT auth and MongoDB message storage.
 
 - 📧 Email: ankitk11964@gmail.com  
 - 🔗 LinkedIn: ([https://www.linkedin.com/in/ankit-kumar-1138a8257/])  
-- 💼 Resume: ([(https://drive.google.com/file/d/1o2Vm41iqk5zvubON0TdPtD79HyKgE6ZE/view?usp=sharing)])
+- 💼 Resume: ([https://drive.google.com/file/d/1OoLA9pQXle0MTn9c7rHoVKNgfSJM2cn8/view?usp=sharing])
 
 ---
 
